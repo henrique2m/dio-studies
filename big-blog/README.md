@@ -1,5 +1,11 @@
 # Big Blog
 
+## Como Rodar o Projeto
+
+- Utilize o Node.js na versão **16** ou superior.
+- Utilize a CLI do Angular na versão **16.0.0**.
+- Para rodar o projeto utilize o comando ```npm run start```.
+
 ## Aulas
 - [x] Preparando seu ambiente de produção e versionando no Github
 - [x] Enxergando os componentes em um Layout
