@@ -1,0 +1,16 @@
+.container__menu-bar > ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu-bar ul li:last-child {
+  border-left: 1px solid #fff;
+}
+
+.container__menu-bar > ul > li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 8px;
+}
